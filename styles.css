@@ -1,0 +1,16 @@
+* {
+  box-sizing: border-box;
+}
+
+#svg {
+  background-color: pink;
+}
+
+.circle:hover {
+  fill: red;
+}
+
+#button {
+  padding-top: 10px;
+
+}
